@@ -1,0 +1,69 @@
+﻿  ClassSLAR.cpp
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(583,10): warning C4244: инициализация: преобразование "const _Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(585,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(590,8): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(602,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(602,27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(604,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(606,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(608,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(610,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(671,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(687,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  ClassSupport.cpp
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(583,10): warning C4244: инициализация: преобразование "const _Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(585,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(590,8): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(602,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(602,27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(604,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(606,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(608,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(610,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(671,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(687,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\ClassSupport.cpp(31,67): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Methods.cpp
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(583,10): warning C4244: инициализация: преобразование "const _Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(585,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(590,8): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(602,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(602,27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(604,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(606,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(608,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(610,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(671,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(687,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\Methods.cpp(27,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  MyForm.cpp
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(583,10): warning C4244: инициализация: преобразование "const _Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(585,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(590,8): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(602,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(602,27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(604,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(606,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(608,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(610,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(671,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Курсовая\Project1\Project1\MyForm.h(687,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  ClassSLAR.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> C:\Users\User\Desktop\Курсовая\Project1\Debug\Project1.exe
